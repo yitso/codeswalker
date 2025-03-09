@@ -1,6 +1,6 @@
 # CodesWalker
 
-CodesWalker is a simple CLI tool designed to quickly present your entire project code in a clean, structured Markdown format. Its primary goal is to let AI systems easily read and understand your codebase. The tool recursively scans project directories, preserves the folder structure, and marks binary files without displaying their content.
+CodesWalker is a simple CLI tool designed to quickly present your entire project code in a clean, structured Markdown format. Its primary goal is to let AI systems easily read and understand your codebase. The tool recursively scans project directories, preserves the folder structure, and output code and other text content, but for binary files it only marks binary flag without displaying their content.
 
 Features:
 
