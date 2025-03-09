@@ -12,7 +12,7 @@ setup(
     version="0.1.0",
     author="Yitso",
     author_email="yitso.zhang@gmail.com",
-    description="CLI tool generating codebase context as AI-friendly Markdown docs",
+    description="CLI tool generating codebase context as an AI-friendly Markdown doc.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/yitso/codeswalker",
